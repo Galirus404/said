@@ -35,7 +35,7 @@ while true; do
   selesai="$HOME/SELESAI"
   if [ -f "$selesai" ]; then
   clear
-  login="$HOME/said"
+  login="$HOME/pqnenzbxebshakdndbxxbdb"
   if [ -f "$login" ]; then
     clear
     sleep 3
